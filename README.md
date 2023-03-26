@@ -6,14 +6,20 @@ Full-Stack web developer
 
 10+ years of experience web development, worked with various technologies and still learning a lot more.
 
-*   🌍  I'm based in United Kingdom
-*   🚀  I'm currently working on [An application based on OpenEyes for Eye Care sector in NHS, UK](http://github.com/AppertaFoundation/openeyes)
-*   🧠  I'm learning VueJS, FastAPI
-*   🤝  I'm open to collaborating on open source projects
-*   ⚡  I love geopolitics and reading wikipedia a lot<a href="https://www.github.com/jeevanism" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/jeevanism?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a><a href="https://www.twitter.com/jeevanism" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/jeevanism?logo=twitter&style=for-the-badge&color=a855f7&labelColor=000000"
-                /></a>### Skills 
+* 🌍  I'm based in United Kingdom
+* 🚀  I'm currently working on [An application based on OpenEyes for Eye Care sector in NHS, UK](http://github.com/AppertaFoundation/openeyes)
+* 🧠  I'm learning VueJS, FastAPI
+* 🤝  I'm open to collaborating on open source projects
+* ⚡  I love geopolitics and reading wikipedia a lot
+
+<a href="https://www.github.com/jeevanism" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/jeevanism?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a><a href="https://www.twitter.com/jeevanism" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/jeevanism?logo=twitter&style=for-the-badge&color=a855f7&labelColor=000000"
+/></a>
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -38,20 +44,24 @@ Full-Stack web developer
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/jeevanism" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/jeevanism" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/jeevanism" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/jeevanism" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/jeevanism"><img src="https://github-readme-stats.vercel.app/api?username=jeevanism&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="jeevanism's GitHub stats" /></a><a
-                      href="http://www.github.com/jeevanism"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanism&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/jeevanism"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=jeevanism&bg_color=000000&color=ffffff&line=a855f7&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/jeevanism" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanism&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/jeevanism" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jeevanism" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jeevanism" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/jeevanism" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/jeevanism"><img src="https://github-readme-stats.vercel.app/api?username=jeevanism&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="jeevanism's GitHub stats" /></a>
+
+<a href="http://www.github.com/jeevanism"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanism&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/jeevanism"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=jeevanism&bg_color=000000&color=ffffff&line=a855f7&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/jeevanism" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanism&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
