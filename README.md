@@ -8,7 +8,7 @@ Over the course of my career, I have also gained extensive experience in Git and
 
 I am passionate about empowering underprivileged and digitally uneducated individuals by conducting digital awareness classes and seminars. My goal is to create greater access to technology and improve digital literacy for those who may face barriers to accessing these resources. Through my efforts to promote digital literacy and access to technology, I believe we can create a more equitable and just society for all.
 
-===================================================================================================================================================
+=================================================================
 
 
 * 🌍  based in United Kingdom
