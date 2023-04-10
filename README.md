@@ -7,7 +7,7 @@ Full-Stack web developer
 10+ years of experience web development, worked with various technologies and still learning a lot more.
 
 * 🌍  I'm based in United Kingdom
-* 🚀  I'm currently working on [An application based on OpenEyes for Eye Care sector in NHS, UK](http://github.com/AppertaFoundation/openeyes)
+* 🚀  I'm currently working on [OpenEyes](http://github.com/AppertaFoundation/openeyes)
 * 🧠  I'm learning VueJS, FastAPI
 * 🤝  I'm open to collaborating on open source projects
 * ⚡  I love geopolitics and reading wikipedia a lot
