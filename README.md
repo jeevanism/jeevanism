@@ -13,7 +13,7 @@ I am passionate about empowering underprivileged and digitally uneducated indivi
 
 * 🌍  based in United Kingdom
 * 🚀  currently working on [OpenEyes](http://github.com/AppertaFoundation/openeyes)
-* 🧠  learning VueJS, FastAPI
+* 🧠  coding with VueJS, FastAPI, Laravel
 * 🤝  open to collaborating on open source projects
 * ⚡  love geopolitics and reading wikipedia a lot
 
