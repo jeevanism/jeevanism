@@ -1,16 +1,21 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jeevachaithanyan Sivanandan
+" Attadīpo Bhava "
+===================================================================================================================================================
+ 
+
+I am a skilled full stack web developer with over a decade of experience in the industry. I have a proven track record of developing bespoke web applications. My expertise lies in Laravel-based applications, and I am particularly interested in the frontend UI/UX, where I prefer using VueJS as my go-to framework.
+
+Over the course of my career, I have also gained extensive experience in Git and GitHub for project deployment, REST API implementation, payment gateway integration, and server management, including deploying and monitoring web projects, maintaining Linux servers, and deploying projects on AWS, Google Cloud, and Azure Cloud Services.I am a dedicated team player and have supervised and assigned work to programmers and designers, monitored the development process, performed testing, deployment, and client support.
+
+I am passionate about empowering underprivileged and digitally uneducated individuals by conducting digital awareness classes and seminars. My goal is to create greater access to technology and improve digital literacy for those who may face barriers to accessing these resources. Through my efforts to promote digital literacy and access to technology, I believe we can create a more equitable and just society for all.
+
 ===================================================================================================================================================
 
-Full-Stack web developer
-------------------------
 
-10+ years of experience web development, worked with various technologies and still learning a lot more.
-
-* 🌍  I'm based in United Kingdom
-* 🚀  I'm currently working on [OpenEyes](http://github.com/AppertaFoundation/openeyes)
-* 🧠  I'm learning VueJS, FastAPI
-* 🤝  I'm open to collaborating on open source projects
-* ⚡  I love geopolitics and reading wikipedia a lot
+* 🌍  based in United Kingdom
+* 🚀  currently working on [OpenEyes](http://github.com/AppertaFoundation/openeyes)
+* 🧠  learning VueJS, FastAPI
+* 🤝  open to collaborating on open source projects
+* ⚡  love geopolitics and reading wikipedia a lot
 
 <a href="https://www.github.com/jeevanism" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jeevanism?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a><a href="https://www.twitter.com/jeevanism" target="_blank" rel="noreferrer"><img
