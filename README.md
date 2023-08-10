@@ -14,8 +14,7 @@ I am passionate about empowering underprivileged and digitally uneducated indivi
 * 🌍  based in United Kingdom
 * 🚀  currently working on [OpenEyes](http://github.com/AppertaFoundation/openeyes)
 * 🧠  coding with VueJS, FastAPI, Laravel
-* 🤝  open to collaborating on open source projects
-* ⚡  love geopolitics and reading wikipedia a lot
+* 🤝  open to collaborate with open source projects
 
 <a href="https://www.github.com/jeevanism" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jeevanism?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a><a href="https://www.twitter.com/jeevanism" target="_blank" rel="noreferrer"><img
