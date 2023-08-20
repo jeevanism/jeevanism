@@ -1,15 +1,17 @@
 " Attadīpo Bhava "
-===================================================================================================================================================
- 
+=================================================================================================================================================== 
 
-I am a skilled full stack web developer with over a decade of experience in the industry. I have a proven track record of developing bespoke web applications. My expertise lies in Laravel-based applications, and I am particularly interested in the frontend UI/UX, where I prefer using VueJS as my go-to framework.
+Experienced full-stack web developer with over a decade of total experience, specializing in Laravel-based applications and VueJS frontend development. Skilled in REST API implementation, payment gateway integration, and server management. Proven track record in delivering tailored web applications.
 
-Over the course of my career, I have also gained extensive experience in Git and GitHub for project deployment, REST API implementation, payment gateway integration, and server management, including deploying and monitoring web projects, maintaining Linux servers, and deploying projects on AWS, Google Cloud, and Azure Cloud Services.I am a dedicated team player and have supervised and assigned work to programmers and designers, monitored the development process, performed testing, deployment, and client support.
-
-I am passionate about empowering underprivileged and digitally uneducated individuals by conducting digital awareness classes and seminars. My goal is to create greater access to technology and improve digital literacy for those who may face barriers to accessing these resources. Through my efforts to promote digital literacy and access to technology, I believe we can create a more equitable and just society for all.
+Skills : 
+* JavaScript, JQuery, Vue.JS, React
+* TailwindCSS, BootStrap
+* PHP, Laravel
+* Python, FastAPI, Odoo
+* MySQL, PostgreSQL, Firebase
+* Gnu/Linux
 
 =================================================================
-
 
 * 🌍  based in United Kingdom
 * 🚀  currently working on [OpenEyes](http://github.com/AppertaFoundation/openeyes)
