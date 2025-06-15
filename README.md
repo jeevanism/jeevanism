@@ -38,6 +38,6 @@ Here are some of the technologies and tools I frequently work with:
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jeevanism/]) [![Personal Website](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=link&logoColor=white)]([https://jeevanism.com/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevanism/) [![Personal Website](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=link&logoColor=white)](https://jeevanism.com/)
 
 ---
