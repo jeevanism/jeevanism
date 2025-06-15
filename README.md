@@ -1,5 +1,5 @@
-" Attadīpo Bhava "
-=================================================================================================================================================== 
+![Attadīpo Bhava](assets/gitbanner.png)
+
 
 With a decade of hands-on experience in software engineering, I specialise in translating business requirements into practical, high-quality software solutions. My focus: driving technology adoption through research, innovation, and a passion for crafting exceptional frontend user experiences.
 
