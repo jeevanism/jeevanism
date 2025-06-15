@@ -1,30 +1,66 @@
 " Attadīpo Bhava "
 =================================================================================================================================================== 
 
-Experienced full-stack web developer with over a decade of total experience, specializing in Laravel-based applications and VueJS frontend development. Skilled in REST API implementation, payment gateway integration, and server management. Proven track record in delivering tailored web applications.
+With a decade of hands-on experience in software engineering, I specialise in translating business requirements into practical, high-quality software solutions. My focus: driving technology adoption through research, innovation, and a passion for crafting exceptional frontend user experiences.
 
-Skills : 
-* JavaScript, JQuery, Vue.JS, React
-* TailwindCSS, BootStrap
-* PHP, Laravel
-* Python, FastAPI, Odoo
-* MySQL, PostgreSQL, Firebase
-* Gnu/Linux
+---
 
-=================================================================
+## 🖥️ About Me
 
-* 🌍  based in United Kingdom
-* 🚀  currently working on [OpenEyes](http://github.com/AppertaFoundation/openeyes)
-* 🧠  coding with VueJS, FastAPI, Laravel
-* 🤝  open to collaborate with open source projects
+- **Frontend Specialist**: UI/UX, JavaScript (Vue.js, React.js), CSS, TailwindCSS  
+- **Full Stack Skills**: PHP (Laravel, CodeIgniter, WordPress), MySQL, REST API  
+- **Tooling & Deployment**: Docker, Git, AWS, Firebase, GNU/Linux  
+- **Other**: jQuery, Bootstrap, Python
 
-<a href="https://www.github.com/jeevanism" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/jeevanism?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a><a href="https://www.twitter.com/jeevanism" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/jeevanism?logo=twitter&style=for-the-badge&color=a855f7&labelColor=000000"
-/></a>
+I’m particularly invested in modern UI/UX, delivering pixel-perfect, responsive, and user-focused web applications.
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/jeevanism" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jeevanism" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/jeevanism" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+## 💼 Work Highlights
 
- 
+- **Odoo ERP (Python/JS)**  
+  Led custom development, enhancing system functionality and efficiency; delivered tailored UI improvements using JavaScript.
+
+- **Medical Imaging (OpenEyes Project)**  
+  Adapted a jQuery drawing tool for ophthalmology diagnostics; migrated a ReactJS app to VueJS with TailwindCSS, boosting UX and responsiveness.
+
+- **Robust Backend (Laravel, OpenEyes)**  
+  Engineered backend APIs ensuring seamless system integration; managed Git-based workflows for efficient version control; deployed Dockerised containers across all environments.
+
+- **E-Commerce (Laravel, Stripe Integration)**  
+  Built a Laravel e-commerce site for Bamboo Products with secure Stripe payments.
+
+- **Online Education Portal (PHP, Mobile-first)**  
+  Developed a PHP portal for remote learning with an accessible, mobile-first design.
+
+- **CMS & Bespoke Applications**  
+  Delivered CMS websites (WordPress, ProcessWire); built custom applications for Photography and Real Estate sectors.
+
+- **Cloud Deployments**  
+  Deployed applications on AWS and Firebase, ensuring reliability and scalability.
+
+- **Leadership**  
+  Managed and mentored a small development team, leading projects from requirements gathering through delivery.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: Vue.js, React.js, JavaScript, jQuery, HTML5, CSS, TailwindCSS, Bootstrap
+- **Backend**: PHP (Laravel, CodeIgniter, CorePHP), Python, REST API
+- **DevOps**: Docker, Git, AWS, Firebase, GNU/Linux
+- **Database**: MySQL
+- **CMS**: WordPress, ProcessWire
+
+---
+
+## 📫 Get in Touch
+
+- [LinkedIn](#) (Add your link)
+- [Portfolio](#) (Add your link)
+- Email: your@email.com
+
+---
+
+*Open to challenging opportunities in UI/UX and full stack web development.*
+
