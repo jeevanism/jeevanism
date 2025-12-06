@@ -1,8 +1,6 @@
 ![Attadīpo Bhava](assets/gitbanner.png)
 
-
-With a decade of hands-on experience in software engineering, I specialise in translating business requirements into practical, high-quality software solutions. My focus: driving technology adoption through research, innovation, and a passion for crafting exceptional frontend user experiences.
-
+Senior Software Engineer with 20+ years building reliable, scalable systems across healthcare (NHS EHR), e-commerce, and enterprise domains. Expertise in modernising legacy platforms on AWS/GCP, implementing secure cloud infrastructure, and leading full-stack teams to deliver business-impactful solutions.  Actively integrating practical AI/ML tooling and mentoring engineers in Golang/TypeScript adoption.
 ---
 
 ### 🛠️ Technologies & Tools
