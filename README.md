@@ -1,5 +1,5 @@
 ![Attadīpo Bhava](assets/gitbanner.png)
-Senior Software Engineer with 20+ years of experience building reliable, scalable systems across healthcare (NHS EHR), e-commerce, and enterprise domains. Expertise in modernising legacy platforms on AWS/GCP, implementing secure cloud infrastructure, and leading full-stack teams to deliver business-impactful solutions. Actively integrating practical AI/ML tooling and mentoring engineers in Golang/TypeScript adoption.
+Senior Solution & Backend Engineer with 20+ years’ experience designing and delivering production-grade systems in regulated environments. Strong commercial expertise in Python (FastAPI), RESTful API architecture, PostgreSQL optimisation, and cloud-native deployments. Hands-on experience integrating Large Language Model (LLM) APIs into scalable services, building Retrieval-Augmented Generation (RAG) pipelines, and developing secure, high-performance backend systems using Redis caching and containerised deployments. Experienced across the full software lifecycle — from API design and data modelling through to AI integration, cloud deployment, monitoring, and production support.
 
 
 
